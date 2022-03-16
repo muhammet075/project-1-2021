@@ -26,7 +26,7 @@ Als sportieve twintiger wil ik mij verdiepen in het effect van gezonde voeding o
 <br/>
 
 ## Live Demo
-<a href="https://muhammet075.github.io/project-1-2021/">https://muhammet075.github.io/project-1-2021/</a>
+<a href="https://muhammet075.github.io/project-1-2021/">https://muhammet075.github.io/project-1-2021/</a><br/>
 🚨 De API functineert niet op de live demo, om de web app optimaal te ervaren adviseer ik je om het project te clonen 🚨
 <br/></br>
 
