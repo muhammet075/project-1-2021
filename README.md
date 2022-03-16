@@ -14,7 +14,7 @@ Als sportieve twintiger wil ik mij verdiepen in het effect van gezonde voeding o
 <br/<br/>
 
 ## Visuele elementen
-<img src="https://i.ibb.co/Lxsf3xD/visuele-elementen-1.png" alt="visuele elementen"/>
+<img src="https://i.ibb.co/Lxsf3xD/visuele-elementen-1.png" alt="visuele elementen" width="400px"/>
 <br/<br/>
 
 ## Features List
