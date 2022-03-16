@@ -4,6 +4,11 @@
 Voor dit project heb ik een single page app gebouwd waarbij ik data uit de API van de Oba ophaal en render per 6 verschillende onderwerpen. De gebruiker kiest een onderwerp zoals fitness, voeding, spieren etc. Per onderwerk krijgt de gebruiker dan boeken en films per categorie. De gebruiker kan op een specifiek boek of film kiezen en wordt dan doorverwezen naar de detail pagina van de website van de Oba.
 <br/><br/>
 
+## Case
+<b>Voeding en diëtiek</b><br/>
+Als sportieve twintiger wil ik mij verdiepen in het effect van gezonde voeding op mijn conditie, om te leren hoe ik mijn sport beter kan beoefenen.
+<br/><br/>
+
 ## Features List
 * Gegevens per categorie bekijken
 * Boeken & Films gegevens krijgen
@@ -37,9 +42,4 @@ De API functineert niet op de live demo, om de web app optimaal te ervaren advis
 ```
 
 3. Open het met je localhost of je text editor<br/>
-<br/><br/>
-
-## Case
-<b>Voeding en diëtiek</b>
-Als sportieve twintiger wil ik mij verdiepen in het effect van gezonde voeding op mijn conditie, om te leren hoe ik mijn sport beter kan beoefenen.
 <br/><br/>
