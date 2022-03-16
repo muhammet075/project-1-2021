@@ -1,90 +1,97 @@
 <!DOCTYPE html>
 <html lang="NL">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="css/style.css">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="css/style.css" />
     <script type="module" src="js/app.js"></script>
-    <script src="https://kit.fontawesome.com/e367b28ca4.js" crossorigin="anonymous"></script>
+    <script
+      src="https://kit.fontawesome.com/e367b28ca4.js"
+      crossorigin="anonymous"
+    ></script>
 
     <title>OBA</title>
-</head>
+  </head>
 
-<body>
-   
+  <body>
     <header>
-        <img src="img/logo.png" alt="Logo van OBA" />
-        <h1>Healthy Life</h1>
+      <img src="img/logo.png" alt="Logo van OBA" />
+      <h1>Healthy Life</h1>
     </header>
-    
+
     <main>
-        <article id="menu">
-            <section>
-                <img src="img/sport.png" alt="Een arm met gespierde biceps" />
-                <h2>Spieren</h2>
-                <p>Ik wil mijn spiergroei bevorderen tijdens mijn workouts.</p>
-                <button id="spieren" value="spieren">Ontdek meer</button>
-            </section>
+      <article id="menu">
+        <section>
+          <img src="img/sport.png" alt="Een arm met gespierde biceps" />
+          <h2>Spieren</h2>
+          <p>Ik wil mijn spiergroei bevorderen tijdens mijn workouts.</p>
+          <button id="spieren" value="spieren">Ontdek meer</button>
+        </section>
 
-            <section>
-                <img src="img/fitness.png" alt="Een zware dumbbell" />
-                <h2>Fitness</h2>
-                <p>Wat zijn de beste fitness oefeningen en hoe krijg ik meer motivatie?</p>
-                <button id="fitness" value="fitness">Ontdek meer</button>
-            </section>
+        <section>
+          <img src="img/fitness.png" alt="Een zware dumbbell" />
+          <h2>Fitness</h2>
+          <p>
+            Wat zijn de beste fitness oefeningen en hoe krijg ik meer motivatie?
+          </p>
+          <button id="fitness" value="fitness">Ontdek meer</button>
+        </section>
 
-            <section>
-                <img src="img/studeren.png" alt="Een college hoed" />
-                <h2>Studeren</h2>
-                <p>Hoe kan ik op een gezonde en stressloze manier gezond studeren?</p>
-                <button id="studeren" value="studeren">Ontdek meer</button>
-            </section>
+        <section>
+          <img src="img/studeren.png" alt="Een college hoed" />
+          <h2>Studeren</h2>
+          <p>Hoe kan ik op een gezonde en stressloze manier gezond studeren?</p>
+          <button id="studeren" value="studeren">Ontdek meer</button>
+        </section>
 
-            <section>
-                <img src="img/afvallen.png" alt="Een afgevallen lichaam" />
-                <h2>Afvallen</h2>
-                <p>Hoe kan ik op een gezonde manier afvallen?</p>
-                <button id="afvallen" value="afvallen">Ontdek meer</button>
-            </section>
+        <section>
+          <img src="img/afvallen.png" alt="Een afgevallen lichaam" />
+          <h2>Afvallen</h2>
+          <p>Hoe kan ik op een gezonde manier afvallen?</p>
+          <button id="afvallen" value="afvallen">Ontdek meer</button>
+        </section>
 
-            <section>
-                <img src="img/voeding.png" alt="Pak melk, een appel en een wortel" />
-                <h2>Voeding</h2>
-                <p>Ik wil mijn voeding met mijn levensstijl combineren.</p>
-                <button id="voeding" value="voeding">Ontdek meer</button>
-            </section>
+        <section>
+          <img src="img/voeding.png" alt="Pak melk, een appel en een wortel" />
+          <h2>Voeding</h2>
+          <p>Ik wil mijn voeding met mijn levensstijl combineren.</p>
+          <button id="voeding" value="voeding">Ontdek meer</button>
+        </section>
 
-            <section>
-                <img src="img/calorieen.png" alt="Een vlam om calorieën te verbranden" />
-                <h2>Calorieën</h2>
-                <p>Waar moet ik op letten om zo min mogelijk calorieën te nuttigen?</p>
-                <button id="studeren" value="calorieën">Ontdek meer</button>
-            </section>
-        </article>
+        <section>
+          <img
+            src="img/calorieen.png"
+            alt="Een vlam om calorieën te verbranden"
+          />
+          <h2>Calorieën</h2>
+          <p>
+            Waar moet ik op letten om zo min mogelijk calorieën te nuttigen?
+          </p>
+          <button id="studeren" value="calorieën">Ontdek meer</button>
+        </section>
+      </article>
 
-        <article class="resultaten">
-        </article>
+      <article class="resultaten"></article>
 
-        <article class="overige">
-        </article>
+      <article class="overige"></article>
     </main>
 
     <button id="hamburger"><i class="fa-solid fa-bars"></i></button>
 
     <div class="form">
-        <button id="sluiten"><i class="fa-solid fa-xmark"></i></button>
-        <button id="reset"><i class="fa-solid fa-filter-circle-xmark"></i></button>
-        <button id="zoeken"><i class="fa-solid fa-magnifying-glass"></i></button>
-        <input id="zoekInput" type="text" />
+      <button id="sluiten"><i class="fa-solid fa-xmark"></i></button>
+      <button id="reset">
+        <i class="fa-solid fa-filter-circle-xmark"></i>
+      </button>
+      <button id="zoeken"><i class="fa-solid fa-magnifying-glass"></i></button>
+      <input id="zoekInput" type="text" />
     </div>
 
     <footer>
-        <section>
-            <p>&#169; OBA - Copyright <span id="huidigJaar">jaar</span></p>
-        </section>
-        <section></section>
+      <section>
+        <p>&#169; OBA - Copyright <span id="huidigJaar">jaar</span></p>
+      </section>
+      <section></section>
     </footer>
-
-</body>
+  </body>
 </html>
