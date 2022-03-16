@@ -11,6 +11,6 @@ CryptoAbi is een app waarbij de gebruiker informatie kan ophalen van de top 200 
 <br/></br>
 
 ## Case
-### Voeding en diëtiek**  
+### Voeding en diëtiek
 Als sportieve twintiger wil ik mij verdiepen in het effect van gezonde voeding op mijn conditie, om te leren hoe ik mijn sport beter kan beoefenen.
 <br/><br/>
