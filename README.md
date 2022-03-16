@@ -10,7 +10,7 @@ Als sportieve twintiger wil ik mij verdiepen in het effect van gezonde voeding o
 <br/><br/>
 
 ## Preview
-<img src="https://s10.gifyu.com/images/oba.gif" alt="preview"/>
+![](https://s10.gifyu.com/images/oba.gif)
 <br/><br/>
 
 ## Schermen
