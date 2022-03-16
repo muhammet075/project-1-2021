@@ -9,6 +9,10 @@ Voor dit project heb ik een single page app gebouwd waarbij ik data uit de API v
 Als sportieve twintiger wil ik mij verdiepen in het effect van gezonde voeding op mijn conditie, om te leren hoe ik mijn sport beter kan beoefenen.
 <br/><br/>
 
+## Preview
+<img src="https://s10.gifyu.com/images/oba.gif" alt="preview"/>
+<br/><br/>
+
 ## Schermen
 <img src="https://i.ibb.co/FzMZ3WG/schermen.png" alt="schermen" width="600px"/>
 <br/<br/>
