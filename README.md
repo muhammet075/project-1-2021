@@ -9,6 +9,14 @@ Voor dit project heb ik een single page app gebouwd waarbij ik data uit de API v
 Als sportieve twintiger wil ik mij verdiepen in het effect van gezonde voeding op mijn conditie, om te leren hoe ik mijn sport beter kan beoefenen.
 <br/><br/>
 
+## Schermen
+<img src="https://i.ibb.co/FzMZ3WG/schermen.png" alt="schermen"/>
+<br/<br/>
+
+## Visuele elementen
+<img src="https://i.ibb.co/2g7dLPz/visuele-elementen.png" alt="visuele elementen"/>
+<br/<br/>
+
 ## Features List
 * Gegevens per categorie bekijken
 * Boeken & Films gegevens krijgen
@@ -27,7 +35,7 @@ Als sportieve twintiger wil ik mij verdiepen in het effect van gezonde voeding o
 
 ## Live Demo
 <a href="https://muhammet075.github.io/project-1-2021/">https://muhammet075.github.io/project-1-2021/</a><br/>
-🚨 De API functineert niet op de live demo, om de web app optimaal te ervaren adviseer ik je om het project te clonen 🚨
+🚨 De API functineert niet altijd op de live demo, om de web app optimaal te ervaren adviseer ik je om het project te clonen
 <br/></br>
 
 ## Installeren
