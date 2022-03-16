@@ -40,6 +40,6 @@ De API functineert niet op de live demo, om de web app optimaal te ervaren advis
 <br/><br/>
 
 ## Case
-### Voeding en diëtiek
+<b>Voeding en diëtiek</b>
 Als sportieve twintiger wil ik mij verdiepen in het effect van gezonde voeding op mijn conditie, om te leren hoe ik mijn sport beter kan beoefenen.
 <br/><br/>
