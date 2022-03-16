@@ -10,11 +10,11 @@ Als sportieve twintiger wil ik mij verdiepen in het effect van gezonde voeding o
 <br/><br/>
 
 ## Schermen
-<img src="https://i.ibb.co/FzMZ3WG/schermen.png" alt="schermen"/>
+<img src="https://i.ibb.co/FzMZ3WG/schermen.png" alt="schermen" width="600px"/>
 <br/<br/>
 
 ## Visuele elementen
-<img src="https://i.ibb.co/Lxsf3xD/visuele-elementen-1.png" alt="visuele elementen" width="400px"/>
+<img src="https://i.ibb.co/Lxsf3xD/visuele-elementen-1.png" alt="visuele elementen" width="600px"/>
 <br/<br/>
 
 ## Features List
