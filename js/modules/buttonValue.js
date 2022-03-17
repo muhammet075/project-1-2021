@@ -9,10 +9,12 @@ const buttonValue = () => {
     buttons.forEach(el => {
         removeBooks();
         el.addEventListener('click', function () {
+            document.querySelector(".footerScroll").classList.add("marginBottom");
+            document.querySelector(".emptyState").style.display = "none";
             scrollFunctie();
             const btnValue = el.value;
             console.log(btnValue)
-            document.querySelector(".resultaten").style.display = 'grid';
+            document.querySelector(".resultaten").style.display = "grid";
 
             handleApi(btnValue)
             displayMenuItems();

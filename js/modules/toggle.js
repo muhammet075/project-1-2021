@@ -2,8 +2,10 @@ document.querySelector("#sluiten").addEventListener("click", sluitFunctie);
 
 export function sluitFunctie() {
     document.querySelector(".form").classList.remove("displayBlock");
+    document.querySelector(".emptyState").style.display = "block";
     document.querySelector("#reset").style.display = "none";
     document.querySelector(".resultaten").innerHTML = '';
+    document.querySelector(".footerScroll").classList.remove("marginBottom");
     document.querySelector("#gras1").scrollIntoView({
         behavior: "smooth",
         block: "start",
